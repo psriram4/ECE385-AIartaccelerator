@@ -1,2 +1,2 @@
-# ECE385-AIartaccelerator
-An AI art accelerator that runs on a DE-2 Altera Cyclone IV FPGA board. 
+# ECE385-ConvNet
+A convolutional neural net written in Python and C with pretrained weights.
